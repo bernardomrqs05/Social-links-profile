@@ -1,0 +1,70 @@
+body{
+    background-color: hsl(0, 0%, 8%);
+}
+
+.card{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin-top: 1%;
+    height: 660px;
+    background-color: hsl(0, 0%, 12%);
+    
+}
+
+.container{
+    display: block;
+    align-content: center;
+    justify-content: center;
+    margin-top: 6%;
+    height: 300px;
+    width: 430px;
+    border-radius: 0.1cm;
+}
+
+.card-img-top{
+    height: 100px;
+    width: 100px;
+    border-radius: 2cm;
+    margin: 50px auto 0 auto; /* centra horizontalmente  1-top,2-right,3-bottom,4-left*/
+}
+
+.card-name{
+    color: hsl(0, 0%, 100%);
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    text-align: center;
+    padding-top: 1px;
+
+}
+
+.card-location{
+    font-family: 'Inter', sans-serif;
+    color: hsl(75, 94%, 57%);
+    text-align: center;
+    font-weight: 600;
+}
+
+.card-profession{
+    font-family: 'Inter', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    color: hsl(0, 0%, 100%);
+    text-align: center;
+}
+
+.botao{
+    text-align: center;
+    margin: 10px 0;
+    background-color: hsl(0, 0%, 20%);
+    color: hsl(0, 0%, 100%);
+    border-radius: 0.3cm;
+    padding: 20px 0;
+    border-width: 0;
+    width: 100%;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+    display: block;
+    
+}
