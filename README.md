@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend Mentor - Social links profile
 
 ![Design preview for the Social links profile coding challenge](./preview.jpg)
@@ -102,3 +103,33 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+=======
+# Social Links Profile Card
+
+A simple responsive social links profile card built with HTML and CSS.
+
+# Overview
+
+This project is a personal implementation of a "Social Links Profile" layout.  
+It displays a profile image, name, location, profession, and a list of social media buttons.
+
+The goal was to practice:
+- Layout structuring
+- Flexbox alignment
+- CSS styling
+- Component organization
+
+# 🛠 Technologies Used
+
+- HTML5
+- CSS3
+- Bootstrap 5 (for base styling utilities)
+- Google Fonts (Inter)
+
+# How to Run
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/bernardomrqs05/Social-links-profile
+>>>>>>> a323ddb59dfb01bb50031c1a9a6f5ccb07e5eed7
